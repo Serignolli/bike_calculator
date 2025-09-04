@@ -1,9 +1,28 @@
-import React, { useMemo, useState } from "react";
-import { 
-  Calculator, Bike, BatteryCharging, Leaf, Zap, TreePine, Wind, ChevronDown, 
-  HelpCircle, Share2, Users, DollarSign, Clock, Volume2, Car, Bus, 
-  Coffee, Gamepad2, Lightbulb, Smartphone, MapPin, TrendingUp, Heart
+import {
+  BatteryCharging,
+  Bike,
+  Bus,
+  Calculator,
+  Car,
+  ChevronDown,
+  Coffee,
+  DollarSign,
+  Gamepad2,
+  Heart,
+  HelpCircle,
+  Leaf,
+  Lightbulb,
+  MapPin,
+  Share2,
+  Smartphone,
+  TreePine,
+  TrendingUp,
+  Users,
+  Volume2,
+  Wind,
+  Zap
 } from "lucide-react";
+import React, { useMemo, useState } from "react";
 
 function App() {
   // Estados existentes
@@ -799,7 +818,7 @@ function App() {
               </button>
               
               <a
-                href="https://www.buymeacoffee.com/seuperfil"
+                href="https://buymeacoffee.com/gabrielserignolli"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-amber-500 to-orange-600 text-white font-semibold rounded-2xl shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200"
