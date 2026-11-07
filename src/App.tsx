@@ -155,7 +155,7 @@ export default function App() {
           ))}
         </ol>
         <p className="support">
-          Gostou? <a href="https://buymeacoffee.com/gabrielserignolli" target="_blank" rel="noopener noreferrer">Apoie o projeto</a>.
+          Gostou? <a href="https://apoie.serignolli.com/" target="_blank" rel="noopener noreferrer">Apoie o projeto</a>.
         </p>
       </footer>
     </div>

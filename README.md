@@ -23,4 +23,4 @@ Feito com React, TypeScript e Vite.
 
 ## Apoio
 
-[Buy Me a Coffee](https://buymeacoffee.com/gabrielserignolli)
+[Apoie o projeto](https://apoie.serignolli.com/)
