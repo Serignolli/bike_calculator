@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bike-calculator-pied.vercel.app/sitemap.xml
+Sitemap: https://bike.serignolli.com/sitemap.xml
